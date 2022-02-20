@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayginsaracoglu
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in C C# Ruby
+- 🌱 I’m currently learning C C# Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
