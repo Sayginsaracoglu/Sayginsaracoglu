@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sayginsaracoglu
-- 👀 I’m interested in C C# Ruby
+- 👀 I’m interested in C C++ C#  Ruby
 - 🌱 I’m currently learning C C# Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
